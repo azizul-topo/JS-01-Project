@@ -68,6 +68,9 @@ While this app provides basic functionality for mood tracking, future versions c
 - **User Accounts:** Integration of a backend for users to create accounts and sync their mood data across devices.
 - **Notifications:** Reminders to log moods daily.
 - **Multiple Moods per Day:** Allow users to log multiple moods on the same day if needed.
+##Screenshots
+![image](https://github.com/user-attachments/assets/11949e3a-257d-4984-b9de-0b32727a7dc5)
+
 
 ## License
 
