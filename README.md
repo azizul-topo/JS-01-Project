@@ -69,6 +69,12 @@ While this app provides basic functionality for mood tracking, future versions c
 - **Notifications:** Reminders to log moods daily.
 - **Multiple Moods per Day:** Allow users to log multiple moods on the same day if needed.
 
+## Screenshots
+![alt text](image.png)
+
+## Deployment Link:
+https://azizul-topo.github.io/JS-01-Project/
+
 ## License
 
 This project is open-source and available under the MIT License. Feel free to contribute, modify, and share it.
